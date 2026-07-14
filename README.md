@@ -205,5 +205,5 @@ Your support is greatly appreciated.
 
 ## 📬 Connect With Me
 
-- 💼 LinkedIn
-- 💻 GitHub
+- 💼 LinkedIn https://www.linkedin.com/in/syed-ali-raza1990/
+-- **GitHub:** https://github.com/SyedAliRaza1990
